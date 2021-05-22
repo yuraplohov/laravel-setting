@@ -73,7 +73,7 @@ Also you can change the value of any setting:
 Setting::set('unique_setting_key', 250);
 ```
 
-You can select all settings from database with `cast()` method:
+You can select all settings from database with `cast()` method. This method automatically converts values to the specified types:
 
 ```php
 $settings = Setting::all()->each->cast();
