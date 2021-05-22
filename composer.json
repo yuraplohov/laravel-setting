@@ -1,0 +1,17 @@
+{
+    "name": "yuraplohov/laravel-setting",
+    "description": "Laravel application settings package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuriy PLokhov",
+            "email": "yurii.plohov@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yuraplohov\\Setting\\": "src/"
+        }
+    }
+}
