@@ -1,6 +1,6 @@
 <?php
 
-namespace Sarbas\Setting\Models;
+namespace Yuraplohov\Setting\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

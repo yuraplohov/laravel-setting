@@ -1,6 +1,6 @@
 <?php
 
-namespace Sarbas\Setting;
+namespace Yuraplohov\Setting;
 
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Collection;

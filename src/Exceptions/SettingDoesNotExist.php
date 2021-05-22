@@ -1,6 +1,6 @@
 <?php
 
-namespace Sarbas\Setting\Exceptions;
+namespace Yuraplohov\Setting\Exceptions;
 
 use InvalidArgumentException;
 
